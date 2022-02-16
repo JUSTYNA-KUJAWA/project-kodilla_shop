@@ -1,4 +1,4 @@
-import styles from '../Product.module.scss';
+import styles from './ProductImage.module.scss';
 
 
 const ProductImage = props => {
