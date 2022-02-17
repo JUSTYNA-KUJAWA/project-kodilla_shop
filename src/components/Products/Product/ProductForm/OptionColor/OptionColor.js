@@ -1,4 +1,4 @@
-import styles from '../../Product.module.scss';
+import styles from './OptionColor.module.scss';
 import clsx from 'clsx';
 import PropTypes from 'prop-types'
 
